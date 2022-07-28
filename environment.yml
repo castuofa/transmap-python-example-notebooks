@@ -1,0 +1,4 @@
+name: transmap-python
+dependencies:
+  - python=3.10
+  - transmap
