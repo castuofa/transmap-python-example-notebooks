@@ -13,5 +13,3 @@ dependencies:
   - result=0.8.0
   - contextily=1.2.0
   - pip
-  - pip:
-      - -e packages/transmap-1.0.1.tar.gz
