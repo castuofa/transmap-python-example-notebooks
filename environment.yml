@@ -13,4 +13,4 @@ dependencies:
   - contextily~=1.2.0
   - pip
   - pip:
-      -e ./local/transmap-1.0-py3-none-any.whl
+      - e local/transmap-1.0.1-py3-none-any.whl
