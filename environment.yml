@@ -13,5 +13,3 @@ dependencies:
   - result=0.8.0
   - contextily=1.2.0
   - pip
-  - pip: 
-    - https://github.com/castuofa/transmap-python-api.git
