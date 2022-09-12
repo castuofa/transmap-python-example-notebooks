@@ -1,3 +1,15 @@
 name: transmap-python
+channels:
+  - conda-forge
 dependencies:
   - python=3.10
+  - keplergl~=0.3.2
+  - geopandas~=0.11.1
+  - pytest~=7.1.2
+  - requests~=2.28.1
+  - validators~=0.18.2
+  - pydantic~=1.10.2
+  - result~=0.8.0
+  - contextily~=1.2.0
+  - pip
+    -e ./local/transmap-1.0-py3-none-any.whl
