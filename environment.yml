@@ -1,6 +1,0 @@
-name: transmap-python
-channels:
-  - defaults
-dependencies:
-  - python=3.10
-  - pip
