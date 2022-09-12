@@ -1,4 +1,4 @@
 #!/bin/bash
 set -euo pipefail
 
-python -m pip install -e ./packages/transmap-1.0.1-py3-none-any.whl --force-reinstall
+python -m pip install -e ./packages/ --force-reinstall
