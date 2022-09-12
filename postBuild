@@ -1,4 +1,4 @@
 #!/bin/bash
 set -euo pipefail
 
-python -m pip install -e ./packages/ --force-reinstall
+git clone https://github.com/castuofa/transmap-python-api.git .
